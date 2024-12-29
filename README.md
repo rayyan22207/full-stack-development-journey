@@ -117,3 +117,6 @@ This repository is for educational and personal use only.
 ### Let’s Build Together
 
 Feel free to connect if you'd like to collaborate on a project or discuss full-stack development concepts.
+
+### Projects Completed
+- https://github.com/rayyan22207/Learning_first_project ( Mixed Message Generator )
